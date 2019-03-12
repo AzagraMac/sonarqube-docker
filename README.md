@@ -2,7 +2,7 @@
 [SonarQube](https://www.sonarqube.org/) sobre [Docker](https://www.docker.com/).
 
 Para arrancar SonarQube, ejecutar el siguiente comando donde tengas el fichero .yml:
-```
+```sh
 $ docker-compose up -d
 ```
 
