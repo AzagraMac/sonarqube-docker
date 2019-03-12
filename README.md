@@ -1,3 +1,5 @@
+![GitHub top language](https://img.shields.io/github/languages/top/azagramac/sonarqube-docker.svg) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/azagramac/sonarqube-docker/master.svg)
+
 # SonarQube-Docker
 
 [SonarQube](https://www.sonarqube.org/) sobre [Docker](https://www.docker.com/).
