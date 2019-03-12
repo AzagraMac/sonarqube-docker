@@ -1,5 +1,4 @@
 # SonarQube-Docker
-|Build Status| |PyPI version| |PyPI - Downloads| |License| |Codacy Badge|
 
 [SonarQube](https://www.sonarqube.org/) sobre [Docker](https://www.docker.com/).
 
